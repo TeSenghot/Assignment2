@@ -1,0 +1,26 @@
+#id1{
+    background: darkblue;
+    color:white;
+}
+.head{
+    background-color:darkblue;
+    color:white;
+}
+
+.table th,tr,td{
+  border: solid;
+    border-width:1px;
+    color:blue;
+    
+}
+.table{
+    border:solid;
+    color:gray;
+    background-color:beige;
+    width:100%;
+    text-align:left;
+}
+.table th{
+    text-align:center;
+    background-color:rgb(203, 217, 72);
+}
